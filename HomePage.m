@@ -1,10 +1,3 @@
-//
-//  HomePage.m
-//  Sample1
-//
-//  Created by Manikandan on 16/07/15.
-//  Copyright (c) 2015 Softcraft Systems and Solutions Private Limited. All rights reserved.
-//
 
 #import "HomePage.h"
 
